@@ -63,6 +63,7 @@ A useful split the field keeps rediscovering:
 *A distinct stance: no LLM in the extraction loop, inspectable, portable, with verification.*
 - [**Howdex**](https://github.com/rossbuckley1990-hash/Howdex) — deterministic, local-first **procedural** memory for AI agents. Distills successful execution traces into canonical, inspectable procedures with provenance and a verification layer (the **Howdex Codex**: an open catalogue where a procedure's trust status is gated on attached receipts — "no proof, no procedure"). Portable across models, frameworks, and clouds; MCP server + framework adapters.
   - *Tradeoff stated honestly:* deterministic extraction trades some generalization (vs LLM-based extraction, per AWM's own results) for auditability, zero extraction cost, and local/private operation.
+- [**Tree Ring Memory**](https://github.com/TerminallyLazy/Tree-Ring-Memory) — Rust-native, local-first memory lifecycle for AI agents: SQLite/FTS recall, evidence refs, deterministic audit/consolidation, and explicit forget/redact/supersede commands; focuses on inspectable capture, recall, maintenance, and decay rather than automatic workflow induction.
 
 ## Benchmarks
 - [**WebArena**](https://webarena.dev/) — 812 realistic web tasks across 5 sites (the AWM benchmark).
