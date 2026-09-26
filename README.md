@@ -58,6 +58,7 @@ A useful split the field keeps rediscovering:
 - [**LangMem**](https://github.com/langchain-ai/langmem) — memory utilities in the LangChain ecosystem.
 - [**MemOS**](https://arxiv.org/abs/2507.03724) — "memory operating system" framing for LLM memory.
 - **Supermemory / Memobase** — memory APIs (several aimed at coding agents via MCP).
+- [**Hyperconsciousness**](https://github.com/louis030195/hyperconsciousness): developer-alpha, local-first encrypted append-only knowledge store with CLI/MCP access through scoped, expiring grants (Rust, MIT; build from source).
 
 ## Deterministic / verifiable / local-first procedural memory
 *A distinct stance: no LLM in the extraction loop, inspectable, portable, with verification.*
