@@ -59,6 +59,7 @@ A useful split the field keeps rediscovering:
 - [**MemOS**](https://arxiv.org/abs/2507.03724) — "memory operating system" framing for LLM memory.
 - **Supermemory / Memobase** — memory APIs (several aimed at coding agents via MCP).
 - [**Hyperconsciousness**](https://github.com/louis030195/hyperconsciousness): developer-alpha, local-first encrypted append-only knowledge store with CLI/MCP access through scoped, expiring grants (Rust, MIT; build from source).
+- [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) — MIT text-memory plugin for DeepSeek Harness with source-linked review, project scope and correction history; public beta.
 
 ## Deterministic / verifiable / local-first procedural memory
 *A distinct stance: no LLM in the extraction loop, inspectable, portable, with verification.*
