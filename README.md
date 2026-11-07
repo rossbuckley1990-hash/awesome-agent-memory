@@ -59,6 +59,7 @@ A useful split the field keeps rediscovering:
 - [**MemOS**](https://arxiv.org/abs/2507.03724) — "memory operating system" framing for LLM memory.
 - **Supermemory / Memobase** — memory APIs (several aimed at coding agents via MCP).
 - [**Hyperconsciousness**](https://github.com/louis030195/hyperconsciousness): developer-alpha, local-first encrypted append-only knowledge store with CLI/MCP access through scoped, expiring grants (Rust, MIT; build from source).
+- [**agent-qa**](https://github.com/vostride/agent-qa) — web, Android and iOS QA agent with inspectable memidex facts, cautions and procedures retained across runs through evidence-gated promotion (TypeScript, FSL-1.1-ALv2; [website](https://vostride.com), [memory docs](https://vostride.com/docs/agent-qa/memory)).
 
 ## Deterministic / verifiable / local-first procedural memory
 *A distinct stance: no LLM in the extraction loop, inspectable, portable, with verification.*
